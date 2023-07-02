@@ -1,0 +1,34 @@
+Data Type, Quick Measurement Results
+Start Time, 2023-06-06 13:49:51
+Sample ID, 060523 alggelatinDN
+Weight (g), 0.476600
+Average Volume (cm3), 0.267299
+Average Density (g/cm3), 1.783023
+Percent Variance, 0.290872
+Test Direction, Reference First
+Cell Size, Large
+EQ Method, Pressure
+EQ Stability, Normal
+Minimum Runs, 3
+Maximum Runs, 15
+Finish Criteria, 0.1
+Gas Type, Nitrogen
+Preparation Method, Pulse
+Number of Pulses, 5
+Flow Rate, Fine
+Number To Average, 3
+Test Pressure (bar), 0.689476
+Reference Chamber (VR, cm3), 6.774425
+Sample chamber (VC, cm3), 8.297128
+Target Temperature (C), 20.000000
+Serial Number, 1050044860
+Software Version, 1.002.020
+Runtime, 1112
+Test Aborted, True
+Total Data Points, 5
+n, p0 [bar], pi [bar], pf [bar], vol [cm3], temp [C], time [hh:mm:ss], density [g/cm3]
+1, 1.007949, 1.727756, 1.337339, 0.267611, 20.001368, 13:55:09, 1.780941
+2, 1.007941, 1.725687, 1.336414, 0.268759, 19.996777, 13:58:30, 1.773336
+3, 1.007969, 1.725149, 1.336177, 0.268465, 19.997852, 14:01:48, 1.775278
+4, 1.007915, 1.723894, 1.335541, 0.267009, 20.000341, 14:05:05, 1.784962
+5, 1.007920, 1.729773, 1.338220, 0.266423, 20.002247, 14:08:23, 1.788886

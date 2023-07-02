@@ -1,0 +1,34 @@
+Data Type, Quick Measurement Results
+Start Time, 2023-06-10 13:45:36
+Sample ID, CelluloseTUBINGoh
+Weight (g), 0.277900
+Average Volume (cm3), 0.161107
+Average Density (g/cm3), 1.724942
+Percent Variance, 0.573355
+Test Direction, Reference First
+Cell Size, Large
+EQ Method, Pressure
+EQ Stability, Normal
+Minimum Runs, 3
+Maximum Runs, 15
+Finish Criteria, 0.1
+Gas Type, Nitrogen
+Preparation Method, Flow
+Purge Time (min), 1.000000
+Flow Rate, Monolith
+Number To Average, 3
+Test Pressure (bar), 0.689476
+Reference Chamber (VR, cm3), 6.774425
+Sample chamber (VC, cm3), 8.297128
+Target Temperature (C), 20.000000
+Serial Number, 1050044860
+Software Version, 1.002.020
+Runtime, 617
+Test Aborted, True
+Total Data Points, 5
+n, p0 [bar], pi [bar], pf [bar], vol [cm3], temp [C], time [hh:mm:ss], density [g/cm3]
+1, 1.015421, 1.759869, 1.353883, 0.171168, 20.004736, 13:48:26, 1.623547
+2, 1.015277, 1.754534, 1.351192, 0.162874, 19.999512, 13:50:13, 1.706222
+3, 1.015250, 1.753607, 1.350708, 0.160757, 19.996632, 13:52:05, 1.728694
+4, 1.015270, 1.762677, 1.354879, 0.162492, 19.996923, 13:53:57, 1.710234
+5, 1.015271, 1.757362, 1.352410, 0.160071, 19.997120, 13:55:53, 1.736106

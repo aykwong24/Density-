@@ -1,0 +1,34 @@
+Data Type, Quick Measurement Results
+Start Time, 2023-06-10 14:02:04
+Sample ID, Gel
+Weight (g), 1.412400
+Average Volume (cm3), 1.367673
+Average Density (g/cm3), 1.032703
+Percent Variance, 0.038603
+Test Direction, Reference First
+Cell Size, Medium
+EQ Method, Pressure
+EQ Stability, Normal
+Minimum Runs, 3
+Maximum Runs, 15
+Finish Criteria, 0.1
+Gas Type, Nitrogen
+Preparation Method, Flow
+Purge Time (min), 1.000000
+Flow Rate, Monolith
+Number To Average, 3
+Test Pressure (bar), 1.241056
+Reference Chamber (VR, cm3), 6.774425
+Sample chamber (VC, cm3), 5.885984
+Target Temperature (C), 20.000000
+Serial Number, 1050044860
+Software Version, 1.002.020
+Runtime, 578
+Test Aborted, False
+Calculated VS (cm3), 1.367673
+Total Data Points, 4
+n, p0 [bar], pi [bar], pf [bar], vol [cm3], temp [C], time [hh:mm:ss], density [g/cm3]
+1, 1.015221, 2.292168, 1.781525, 1.371702, 20.005713, 14:04:58, 1.029670
+2, 1.015145, 2.290328, 1.780154, 1.368210, 19.993017, 14:07:12, 1.032298
+3, 1.015190, 2.288187, 1.778868, 1.367928, 19.990185, 14:09:25, 1.032510
+4, 1.015175, 2.286528, 1.777797, 1.366881, 19.992138, 14:11:42, 1.033301
